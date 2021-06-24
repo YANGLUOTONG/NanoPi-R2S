@@ -1,5 +1,5 @@
 ## 20210624
-self release
+* 关闭不在使用的插件 clash、adguard、网易云音乐
 
 
 ## 20210303
